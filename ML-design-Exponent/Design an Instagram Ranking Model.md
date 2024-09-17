@@ -82,7 +82,7 @@ From the MLOps perspective: 10,000 * 100,000 candidate generation queries = 100M
 ## Step 3: Propose a model architecture[](https://www.tryexponent.com/courses/ml-engineer/ml-system-design/design-instagram-feed-ranking-model#step-3-propose-a-model-architecture)
 
 
-To learn an embedding for the candidate generation phase, there are two chief possible approaches:
+To learn an embedding for the ==candidate generation phase==, there are two chief possible approaches:
 
 1. Collaborative filtering with matrix factorization, where we decompose a sparse user-post engagement matrix enhanced with side features of users and post-items
 2. Collaborative filtering with a two-tower network, where we create one for users and the other for post-items
@@ -217,3 +217,4 @@ With more time, it’d be beneficial to discuss techniques that support ANN, suc
 - Supports rapid lookup of neighbors without precisely gathering the nearest ones, which suffices for an Instagram feed.
 
 We could also address ad placement and related frameworks in Instagram feeds. Ads are the key monetization path for social media apps, so they are essential to consider in a wider organization-level design.
+
