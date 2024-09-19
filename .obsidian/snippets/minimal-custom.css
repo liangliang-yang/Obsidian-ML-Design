@@ -1,0 +1,14 @@
+/* Expand the width of the editor area in Minimal theme */
+.workspace-leaf .markdown-source-view,
+.workspace-leaf .markdown-preview-view {
+    max-width: 1200px !important; /* Adjust this value for your desired width */
+    margin: 0 auto; /* Center the editor */
+    padding: 0 20px; /* Optional: Adjust padding */
+}
+
+/*- editor line width - default 700px -*/ 
+
+body {
+    --file-line-width: 900px;  
+  }
+

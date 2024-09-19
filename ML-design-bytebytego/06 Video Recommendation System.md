@@ -102,7 +102,6 @@ The ML system is required to predict videos that are relevant to users. Let's en
 
 ### Two-Tower Neural Network 
 #two-tower-model 
-[[Design an Instagram Ranking Model#Two-tower network]]
 
 ![[Pasted image 20240915161735.png]]
 
