@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "70388842f116cc3a",
+        "id": "f84037964f820361",
         "type": "tabs",
         "children": [
           {
-            "id": "884327ed1262b64f",
+            "id": "9ff9735a02da7d43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Binary-Search/0658. Find K Closest Elements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3380250e73ff25cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary-Search-template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71aa543a16a21842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Two-Pointers/0031. Next Permutation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary-Search-template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary-Search-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary-Search-template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,33 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3380250e73ff25cb",
+  "active": "9ff9735a02da7d43",
   "lastOpenFiles": [
     "Leetcode/Binary-Search/0658. Find K Closest Elements.md",
-    "Binary-Search-template.md",
+    "Leetcode/images/Pasted image 20241007215059.png",
+    "Untitled.md",
+    "Leetcode/images/Pasted image 20241007215258.png",
+    "Leetcode/images/Pasted image 20241007215248.png",
+    "Leetcode/images/Pasted image 20241007215239.png",
+    "Leetcode/images/Pasted image 20241007215230.png",
+    "Leetcode/images/Pasted image 20241007215222.png",
+    "Leetcode/images/Pasted image 20241007215211.png",
+    "Leetcode/images/Pasted image 20241007215202.png",
+    "Leetcode/images/Pasted image 20241007215143.png",
+    "Leetcode/images/Pasted image 20241007215126.png",
+    "Leetcode/Sliding-Window/1004. Max Consecutive Ones III.md",
     "Leetcode/Sliding-Window/0003. Longest Substring Without Repeating Characters.md",
+    "Binary-Search-template.md",
     "Leetcode/Binary-Search",
     "Leetcode/Two-Pointers/0031. Next Permutation.md",
     "Leetcode/Sliding-Window",
     "Leetcode/Subarray-Sum/0560. Subarray Sum Equals K.md",
     "ML-design-Exponent/Design an Instagram Ranking Model.md",
     "Leetcode/Subarray-Sum/0523. Continuous Subarray Sum.md",
-    "Pasted image 20240917214519.png",
     "minimal-custom.css",
-    "Pasted image 20240917214434.png",
-    "Pasted image 20240917214410.png",
     "Leetcode/Two-Pointers",
     "Leetcode/Stack/1762. Buildings With an Ocean View.md",
     "Leetcode/Stack",
     "ML-design-bytebytego/06 Video Recommendation System.md",
-    "Leetcode/images/Pasted image 20240916213803.png",
     "Leetcode/images",
-    "Leetcode/images/Pasted image 20240916213850.png",
-    "Leetcode/images/Pasted image 20240916213844.png",
-    "Leetcode/images/Pasted image 20240916213837.png",
-    "Leetcode/images/Pasted image 20240916213831.png",
-    "Leetcode/images/Pasted image 20240916213824.png",
-    "Leetcode/images/Pasted image 20240916213816.png",
     "Leetcode/Subarray-Sum/desktop.ini",
     "Leetcode/Subarray-Sum/Untitled 1.md",
     "Leetcode/Subarray-Sum",
