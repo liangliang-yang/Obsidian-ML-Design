@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Binary-Search-template.md",
+                "file": "ML-design/Design a Personalized Marketing System/Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary-Search-template"
+              "title": "Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit)"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/Binary-Search-template.md"
+                "file": "ML-design/Design a Personalized Marketing System/Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Binary-Search-template"
+              "title": "Outline of Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit)"
             }
           },
           {
@@ -172,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8379a6137b58295a",
+  "active": "7a65f13df70f53a8",
   "lastOpenFiles": [
-    "ML-design/Design a Personalized Marketing System/Contextual Offer Recommendations Engine at Target.md",
     "ML-design/Design a Personalized Marketing System/Design a Personalized Marketing System.md",
+    "ML-design/Design a Personalized Marketing System/Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit).md",
+    "Leetcode/Binary-Search-template.md",
+    "ML-design/Design a Personalized Marketing System/Contextual Offer Recommendations Engine at Target.md",
     "ML-design/Design a Personalized Marketing System",
     "ML-design/Design a Personalized Marketing System/User Profiling and Customer Segmentation.md",
     "ML-design/Design a Personalized Marketing System/Multi-Armed Bandit Problem.md",
@@ -204,7 +206,6 @@
     "Leetcode/images/Pasted image 20241007215222.png",
     "Leetcode/images/Pasted image 20241007215211.png",
     "Leetcode/Sliding-Window/0003. Longest Substring Without Repeating Characters.md",
-    "Leetcode/Binary-Search-template.md",
     "Leetcode/Binary-Search",
     "Leetcode/Two-Pointers/0031. Next Permutation.md",
     "Leetcode/Sliding-Window",
