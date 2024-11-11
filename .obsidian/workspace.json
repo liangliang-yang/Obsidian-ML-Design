@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 470.5
   },
   "right": {
     "id": "71e4319d91b6671a",
@@ -174,13 +174,19 @@
   },
   "active": "7a65f13df70f53a8",
   "lastOpenFiles": [
-    "ML-design/Design a Personalized Marketing System/Design a Personalized Marketing System.md",
-    "ML-design/Design a Personalized Marketing System/Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit).md",
-    "Leetcode/Binary-Search-template.md",
     "ML-design/Design a Personalized Marketing System/Contextual Offer Recommendations Engine at Target.md",
-    "ML-design/Design a Personalized Marketing System",
-    "ML-design/Design a Personalized Marketing System/User Profiling and Customer Segmentation.md",
+    "ML-design/Design a Personalized Marketing System/Campaign Optimization - Reinforcement Learning (Multi-Armed Bandit).md",
+    "ML-design/Design a Personalized Marketing System/Common types of personalized recommendation systems.md",
+    "ML-design-bytebytego/06 Video Recommendation System.md",
+    "ML-design/Design a Personalized Marketing System/Facilitate AB testing and multi-armed bandit experiments.md",
     "ML-design/Design a Personalized Marketing System/Multi-Armed Bandit Problem.md",
+    "ML-design/Design a Personalized Marketing System/User Profiling and Customer Segmentation.md",
+    "ML-design/Design a Personalized Marketing System/Design a Personalized Marketing System.md",
+    "ML-design-bytebytego/images/Pasted image 20240915160528.png",
+    "ML-design/Design a Personalized Marketing System/Real-time personalization algorithms.md",
+    "ML-design/Design a Personalized Marketing System/Attribution modeling with multi-touch and time-decay factors.md",
+    "Leetcode/Binary-Search-template.md",
+    "ML-design/Design a Personalized Marketing System",
     "Untitled.md",
     "Leetcode/Python/desktop.ini",
     "Leetcode/Python/str.md",
@@ -204,7 +210,6 @@
     "Leetcode/images/Pasted image 20241007215239.png",
     "Leetcode/images/Pasted image 20241007215230.png",
     "Leetcode/images/Pasted image 20241007215222.png",
-    "Leetcode/images/Pasted image 20241007215211.png",
     "Leetcode/Sliding-Window/0003. Longest Substring Without Repeating Characters.md",
     "Leetcode/Binary-Search",
     "Leetcode/Two-Pointers/0031. Next Permutation.md",
@@ -213,13 +218,8 @@
     "ML-design-Exponent/Design an Instagram Ranking Model.md",
     "Leetcode/Subarray-Sum/0523. Continuous Subarray Sum.md",
     "minimal-custom.css",
-    "ML-design-bytebytego/06 Video Recommendation System.md",
     "Leetcode/Subarray-Sum/Untitled 1.md",
     "Pasted image 20240915201927.png.md",
-    "ML-design-Exponent/Design a Spotify Recommendation System.md",
-    "ML_Design_Exponent/Untitled.md",
-    "ML-design-Exponent/Untitled.md",
-    "ML-design-Exponent/Untitled 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
